@@ -32,7 +32,7 @@ It achieves a **test accuracy of approximately 97%**, showing high reliability i
 
 **Example Output:**
 
-![Test Results](assets/test_accuracy.png)
+![Test Results](img/Test-Loss-Test-Accuracy.png)
 
 Test Loss: 0.1256
 Test Accuracy: 97.02%
@@ -48,13 +48,13 @@ The prediction and ground-truth label are shown below the image for easy compari
 |-----------------|---------------|
 | Glioma          | Glioma        |
 
-![Glioma Prediction](assets/sample_prediction_1.png)
+![Glioma Prediction](img/Glioma.png)
 
 | Predicted Class | Ground Truth |
 |-----------------|---------------|
 | No Tumour       | No Tumour     |
 
-![NoTumour Prediction](assets/sample_prediction_2.png)
+![NoTumour Prediction](img/No-Tumor.png)
 
 
 ## 📁 Dataset
