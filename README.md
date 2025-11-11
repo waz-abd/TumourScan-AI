@@ -32,7 +32,7 @@ It achieves a **test accuracy of approximately 97%**, showing high reliability i
 
 **Example Output:**
 
-![Test Results](img/Test-Loss-Test-Accuracy.png)
+![Test Results](img/Test-Loss-Accuracy.png)
 
 Test Loss: 0.1256
 Test Accuracy: 97.02%
