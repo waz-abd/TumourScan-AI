@@ -4,8 +4,7 @@
 
 ## 💡 About This Project  
 
-**TumourScan-AI** is a deep learning project designed to classify brain MRI scans into different tumour categories.  
-The model demonstrates how artificial intelligence can be used for medical image analysis in a research and educational context.  
+**TumourScan-AI** is a deep learning project designed to classify brain MRI scans into different tumour categories. The model demonstrates how artificial intelligence can be used for medical image analysis in a research and educational context.  
 
 Built using **PyTorch**, this project explores image preprocessing, model training, evaluation, and prediction visualization — providing a complete workflow for image-based classification tasks.
 
@@ -16,8 +15,7 @@ Built using **PyTorch**, this project explores image preprocessing, model traini
 ## 🧩 How It Works  
 
 ### 🔹 1. Training the Model  
-The model is trained over **25 epochs**, progressively minimizing loss as it learns to recognize tumour patterns in MRI scans.
-During training, the loss value decreases significantly — indicating successful learning and convergence.
+The model is trained over **25 epochs**, progressively minimizing loss as it learns to recognize tumour patterns in MRI scans. During training, the loss value decreases significantly — indicating successful learning and convergence.
 
 **Example Output:**
 
@@ -27,8 +25,7 @@ During training, the loss value decreases significantly — indicating successfu
 
 
 ### 🔹 2. Model Evaluation  
-After training, the model is evaluated on unseen test data.  
-It achieves a **test accuracy of approximately 97%**, showing high reliability in classifying tumour types.
+After training, the model is evaluated on unseen test data. It achieves a **test accuracy of approximately 97%**, showing high reliability in classifying tumour types.
 
 **Example Output:**
 
@@ -39,8 +36,7 @@ Test Accuracy: 97.02%
 
 
 ### 🔹 3. Prediction on Random MRI Samples  
-When the final notebook cell is executed, the model selects a random MRI image from the test dataset, displays it, and predicts its class.  
-The prediction and ground-truth label are shown below the image for easy comparison.
+When the final notebook cell is executed, the model selects a random MRI image from the test dataset, displays it, and predicts its class. The prediction and ground-truth label are shown below the image for easy comparison.
 
 **Example Predictions:**
 
